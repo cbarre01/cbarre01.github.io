@@ -2,7 +2,7 @@
 title: Colin Barrett's Personal Website
 subtitle:
 email: youremailaddress@gmail.com
-description: A site for posting my projects and blog posts.
+description: Welcome to my site for posting projects and blog posts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://cbarre01.github.io// # the base hostname & protocol for your site
 author: Colin Barrett

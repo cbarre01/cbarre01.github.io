@@ -4,6 +4,7 @@
 
 layout: default
 nav-menu: true
+show-tile: true
 theme: jekyll-theme-midnight
 ---
 

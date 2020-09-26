@@ -1,30 +1,30 @@
 # site settings
-title: Colin Barrett
-subtitle: 
-email: cole.barrett5@gmail.com
-description: Colin Barrett's Personal Website and Blog
+title: Colin Barrett's Personal Website
+subtitle: by HTML5 UP
+email: youremailaddress@gmail.com
+description: A site for posting my projects and blog posts.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://cbarre01.github.io// # the base hostname & protocol for your site
 author: Colin Barrett
 street_address: 75 Loma Road
 city: San Carlos
-state: CA
+state: CA	
 zip_code: 94070
 country: United States of America
 phone: (650) 339-1624
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/cbarre01
-googleplus_url: 
+github_url: https://github.com/cbarre01
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/colin-barrett-stats/
 pinterest_url:
 slack_url:
 twitter_url:

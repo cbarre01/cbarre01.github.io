@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Colin Barrett'
+landing-title: 'Hi, I'm Colin Barrett'
 description: Colin Barrett's Personal Website and Blog
 image: null
 author: Colin Barrett

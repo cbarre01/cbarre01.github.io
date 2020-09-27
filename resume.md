@@ -1,3 +1,11 @@
+---
+layout: page
+title: Elements
+nav-menu: true
+tile-menu: true
+---
+
+
 Experience
 ==========
 

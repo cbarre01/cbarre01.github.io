@@ -15,6 +15,9 @@ show-tile: true
 github linkedin
 
 
+<hr class="major" />
+
+<h3>Text</h3>
 
 <p> A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the California Bay Area.
 

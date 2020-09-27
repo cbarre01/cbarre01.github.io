@@ -36,5 +36,5 @@ Please take a look at my stats resume, programming resume, or check out some exa
 <span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
 	
 </div>
-
-</hr>
+</div>
+</section>

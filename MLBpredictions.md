@@ -1,5 +1,6 @@
 ---
 show-tile: false
+title: MLB Predictions
 ---
 
 

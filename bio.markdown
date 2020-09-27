@@ -9,7 +9,9 @@ show-tile: true
 
 ## Bio
 
-
+<div class="row 200%">
+	<div class="6u 12u$(medium)">
+    
 github linkedin
 
 

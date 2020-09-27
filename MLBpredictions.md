@@ -1,3 +1,9 @@
+---
+show-tile: false
+---
+
+
+
 #Predictions for MLB games on (date)
 
 |Home Team|Away Team|Home Score|Away Score|Home Predicted Win Chance|Away Predicted Win Chance|

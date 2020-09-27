@@ -7,11 +7,13 @@ nav-menu: true
 show-tile: true
 ---
 
-## Bio
+
 
 
 <section id="one">
 	<div class="inner">
+		
+## Bio
 		
 <div class="row 200%">
 	<div class="6u 12u$(medium)">

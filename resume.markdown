@@ -1,3 +1,11 @@
+---
+layout: page
+title: Resume
+nav-menu: true
+show-tile: true
+---
+
+
 Experience
 ==========
 
@@ -36,14 +44,6 @@ Education
 =========
 
 ### Bachelors of Science in Statistics - December 2019\
-California Polytechnic University San Luis Obispo
-
-Statistical Background and Skills
----------------------------------
-
--   Works daily with modern statistical packages including R, SAS, Jmp,
-    Minitab
-
 -   Well versed in underlying statistical theory these programs are
     built around, the assumptions behind the procedures they use, and
     using them to draw useful conclusions from the data.

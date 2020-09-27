@@ -39,4 +39,3 @@ show-tile: true
 	
 </div>
 </div>
-</section>

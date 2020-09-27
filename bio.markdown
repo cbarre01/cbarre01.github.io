@@ -9,10 +9,12 @@ show-tile: true
 
 ## Bio
 
+
+<section id="one">
+	<div class="inner">
+		
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
-    
-github linkedin
 
 
 <hr class="major" />

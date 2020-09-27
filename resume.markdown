@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Bio
+title: Resume
 nav-menu: true
 show-tile: true
 ---

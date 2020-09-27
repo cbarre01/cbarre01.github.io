@@ -26,3 +26,13 @@ Interested in basketball, chess, skateboarding, hip hop, pc games, good food, an
 I'm early in my career but I've got big plans. Seeking to be inspired and to work hard for things that are worth it, around people that bring out the best in me.
 
 Please take a look at my stats resume, programming resume, or check out some examples of my work. </p>
+
+</div>
+
+<div class="6u$ 12u$(medium)">
+<h4>Fit</h4>
+<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+	
+</div>
+
+</hr>

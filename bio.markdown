@@ -4,7 +4,7 @@
 
 layout: page
 title: Bio
-image: assets/images/man.jpg
+image: assets/images/profile1cropped.jpg
 nav-menu: true
 show-tile: true
 ---

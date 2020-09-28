@@ -7,18 +7,6 @@ title: Resume
 nav-menu: true
 show-tile: true
 ---
-<html>
-
-{% include head.html %}
-
-<body>
-
-    {% include header.html %}
-
-    <!-- Banner -->
-    <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
 
 Experience
 ==========

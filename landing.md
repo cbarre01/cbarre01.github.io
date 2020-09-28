@@ -106,9 +106,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>MLB Predictions</h3>
+					<h3>Java game using ASTAR</h3>
 				</header>
-				<p>My senior project in which I developed a simple feedforward neural network to predict the final results of live MLB games. The neural network model is trained in advance, using historical data collected and aggregated from multiple sources. This model is saved and used in a program which scrapes live game data (scores, pitchers, inning, and more) every 5 minutes and feeds it into the model to generate 'live' predictions.</p>
+				<p>This game was the final product of my object oriented programming class. The main focus of this project was to build a generic, single page script into a properly structured hierchacal project. There are also applications of algorithms and pathfinding techniques such as a modified ASTAR which is used by the enemies to track the player.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -122,9 +122,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>HLTV Predictions</h3>
+					<h3>Decoder</h3>
 				</header>
-				<p> Counter Strike: Global Offensive is a pc game which has worldwide popularity as an 'e-sport', meaning there are professionals from many countries who compete at the game as a full time job. In e-sports, just like in regular sports, there are massive amounts of data that can be analyzed to better understand the game and what elements make a successful player or team. This project, which is an extension of my senior project, is my attempt to harness that data and apply it in an approach similar to typical sports science. </p>
+				<p> Text here </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p> Counter Strike: Global Offensive is a pc game which has worldwide popularity as an 'e-sport', meaning there are professionals from many countries who compete at the game as a full time job. In e-sports, just like in regular sports, there are massive amounts of data that can be analyzed to better understand the game and what elements make a successful player or team. This project, which is an extension of my senior project, is my attempt to harness that data and apply it in an approach similar to typical sports science. </p>
 				<ul class="actions">
-					<li><a href="projects/csgo.html" class="button">Learn more</a></li>
+					<li><a href="projects/CSGOpredictions.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

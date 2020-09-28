@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-show_tile: true
+show_tile: false
 ---
 
 

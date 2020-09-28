@@ -4,6 +4,7 @@
 
 layout: page
 title: Resume
+image: calpoly.jpg
 nav-menu: true
 show-tile: true
 ---

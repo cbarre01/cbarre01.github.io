@@ -5,7 +5,6 @@
 {% endif %}
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}
-  {{tile}}
   <article>
     <span class="image">
       <img src="{{ tile.image }}" alt="" />

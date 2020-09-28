@@ -80,7 +80,7 @@ nav-menu: true
 				</header>
 				<p>Another project I worked on for Cal Poly Stats Consulting, in which a team of students and I helped Dr. Tom Bensky of Cal Poly develop and analyze an experiment to determine an ideal temperature and strain combination for manufacturing strong carbon steel coils. My team designed a surface composite design which Dr. Bensky was able to carry out, and with the results were able to recommend several ideal parameter combinations for future investigation.</p>
 				<ul class="actions">
-					<li><a href="projects/mccarthy.pdf" class="button">View Report</a></li>
+					<li><a href="projects/steelmill.pdf" class="button">View Report</a></li>
 				</ul>
 			</div>
 		</div>

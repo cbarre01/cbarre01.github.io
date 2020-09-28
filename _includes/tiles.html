@@ -2,7 +2,6 @@
     {% assign tiles = site.posts %}
 {% elsif 'pages' == site.tiles-source %}
     {% assign tilesR = site.html_pages | where_exp: "item", "item.show_tile != false" %}
-    {% assign tiles = tilesR | where_exp: "item", "item.show_tile == true" %}
 {% endif %}
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}

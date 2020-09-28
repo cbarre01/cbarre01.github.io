@@ -14,7 +14,6 @@ show-tile: true
 <section id="one">
 	<div class="inner">
 		
-## Bio
 		
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
@@ -22,7 +21,7 @@ show-tile: true
 
 <hr class="major" />
 
-<h3>Text</h3>
+<h3>Hi, I'm Colin</h3>
 
 <p> A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the California Bay Area. </p>
 

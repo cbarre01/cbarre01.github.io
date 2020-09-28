@@ -36,7 +36,7 @@ show-tile: true
 
 <div class="6u$ 12u$(medium)">
 <h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/profile2.jpg %}" alt="" /></span>
 	
 </div>
 </div>

@@ -1,6 +1,8 @@
 ---
-show-tile: false
-title: MLB Predictions
+layout: page
+title: MLBPredictions
+author: Colin Barrett
+show_tile: false
 ---
 
 

@@ -1,4 +1,4 @@
---
+---
 layout: page
 title: Resume
 image: calpoly.jpg

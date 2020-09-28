@@ -1,6 +1,6 @@
 # site settings
-title: Colin Barrett's Personal Website
-subtitle:
+title: 
+subtitle: Colin Barrett
 email: youremailaddress@gmail.com
 description: Welcome to my site.
 baseurl: "" # the subpath of your site, e.g. /blog

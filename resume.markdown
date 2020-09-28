@@ -5,7 +5,7 @@
 layout: page
 title: Resume
 nav-menu: true
-show-tile: false
+show-tile: true
 ---
 
 

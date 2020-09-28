@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Resume
-image: calpoly.jpg
+layout: page
+description:
+image: assets/images/calpoly.jpg
 nav-menu: true
 show-tile: true
 ---

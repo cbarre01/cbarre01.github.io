@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="projects/MLBPredictions.html" class="image">
+		<a href="projects/MLBpredictions.html" class="image">
 			<img src="{% link assets/images/baseball.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>My senior project in which I developed a simple feedforward neural network to predict the final results of live MLB games. The neural network model is trained in advance, using historical data collected and aggregated from multiple sources. This model is saved and used in a program which scrapes live game data (scores, pitchers, inning, and more) every 5 minutes and feeds it into the model to generate 'live' predictions.</p>
 				<ul class="actions">
-					<li><a href="projects/MLBPredictions.html" class="button">Learn more</a></li>
+					<li><a href="projects/MLBpredictions.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

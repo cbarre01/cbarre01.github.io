@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="projects/CSGOpredictions.html" class="image">
 			<img src="{% link assets/images/csgo.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -54,7 +54,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="projects/wildfire.pdf" class="image">
 			<img src="{% link assets/images/wildfire.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -70,7 +70,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="projects/steelmill.pdf" class="image">
 			<img src="{% link assets/images/steelmill.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -100,7 +100,7 @@ nav-menu: true
 <!-- Four -->
 <section id="four" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="projects/ASTARgame.html" class="image">
 			<img src="{% link assets/images/frog.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -110,13 +110,13 @@ nav-menu: true
 				</header>
 				<p>This game was the final product of my object oriented programming class. The main focus of this project was to build a generic, single page script into a properly structured hierchacal project. There are also applications of algorithms and pathfinding techniques such as a modified ASTAR which is used by the enemies to track the player.</p>
 				<ul class="actions">
-					<li><a href="projects/ASTARgame.html" class="button">View Code</a></li>
+					<li><a href="projects/ASTARgame.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="projects/kcliques.html" class="image">
 			<img src="{% link assets/images/kclique.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -126,7 +126,7 @@ nav-menu: true
 				</header>
 				<p> A project I wrote for my algorithms class which determines whether a map contains a 'k-clique' where k is input by the user. </p>
 				<ul class="actions">
-					<li><a href="projects/kcliques.html" class="button">View Code</a></li>
+					<li><a href="projects/kcliques.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>

@@ -1,7 +1,7 @@
 # site settings
 title: 
 subtitle: Colin Barrett
-email: youremailaddress@gmail.com
+email: cole.barrett5@gmail.com
 description: Welcome to my site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://cbarre01.github.io// # the base hostname & protocol for your site

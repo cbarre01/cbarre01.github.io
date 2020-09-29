@@ -2,7 +2,7 @@
 <section id="one">
 	<div class="inner">
     
-Predictions for MLB games on (date)
+<h3>Predictions for Professional Counter-Strike games on (date). UNDER CONSTRUCTION</h3>
 
 |Home Team|Away Team|Home Score|Away Score|Home Predicted Win Chance|Away Predicted Win Chance|
 |---|---|---|---|---|---|

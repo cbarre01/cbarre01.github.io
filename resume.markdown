@@ -9,7 +9,7 @@ show-tile: true
 Education
 =========
 
-### Bachelors of Science in Statistics - December 2019\
+### Bachelors of Science in Statistics - December 2019
 California Polytechnic University San Luis Obispo
 
 Statistics Coursework

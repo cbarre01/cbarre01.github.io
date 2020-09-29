@@ -9,15 +9,6 @@ show_tile: false
 <section id="one">
 	<div class="inner">
     
-<h3>Predictions for MLB games on (date). UNDER CONSTRUCTION</h3>
-
-|Home Team|Away Team|Home Score|Away Score|Home Predicted Win Chance|Away Predicted Win Chance|
-|---|---|---|---|---|---|
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-
 <div class="table-wrapper">
 	<table>
 		<thead>

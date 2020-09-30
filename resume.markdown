@@ -6,6 +6,9 @@ image: assets/images/calpoly.jpg
 nav-menu: true
 show-tile: true
 ---
+
+-V geometry:margin=1in
+
 Education
 =========
 

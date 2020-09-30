@@ -30,7 +30,7 @@ show-tile: true
 
 <p> I'm early in my career but I've got big plans. Seeking to be inspired and to work hard for things that are worth it, around people that bring out the best in me. </p>
 
-<p> Please feel free take a look at my <a href="c-barrett.com/resume">resume</a> or check out some <a href="c-barrett.com/projects">examples of my work.</a> </p>
+<p> Please feel free take a look at my <a href="resume">resume</a> or check out some <a href="projects">examples of my work.</a> </p>
 
 </div>
 

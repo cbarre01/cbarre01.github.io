@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>MLB Predictions</h3>
 				</header>
-				<p>My senior project in which I developed a simple feedforward neural network to predict the final results of live MLB games. The neural network model is trained in advance, using historical data collected and aggregated from multiple sources. This model is saved and used in a program which scrapes live game data (scores, pitchers, inning, and more) every 5 minutes and feeds it into the model to generate 'live' predictions.</p>
+				<p>My senior project in which a feedforward neural network is used to predict the final results of live MLB games. The neural network model is trained in advance, using historical data collected and aggregated from multiple sources. This model is saved and used in a program which scrapes live game data (scores, pitchers, inning, and more) every 5 minutes and feeds it into the model to generate 'live' predictions.</p>
 				<ul class="actions">
 					<li><a href="projects/MLBpredictions.html" class="button">Learn more</a></li>
 				</ul>
@@ -78,7 +78,7 @@ nav-menu: true
 				<header class="major">
 					<h3>McCarthy Steel Mill Project</h3>
 				</header>
-				<p>Another project I worked on for Cal Poly Stats Consulting, in which a team of students and I helped Dr. Tom Bensky of Cal Poly develop and analyze an experiment to determine an ideal temperature and strain combination for manufacturing strong carbon steel coils. My team designed a surface composite design which Dr. Bensky was able to carry out, and with the results were able to recommend several ideal parameter combinations for future investigation.</p>
+				<p> Carbon Steel is a formulation of industrial steel which is strengthened by mixing in larger than usual amounts of carbon during the smelting process. For this project for the McCarthy Steel Mill, a team of students and I worked with Dr. Tom Bensky of Cal Poly to develop and analyze an experiment to determine an ideal temperature and strain combination for manufacturing strong carbon steel coils. My team designed a surface composite design which Dr. Bensky was able to carry out, and with the results were able to recommend several ideal parameter combinations for future investigation.</p>
 				<ul class="actions">
 					<li><a href="projects/steelmill.pdf" class="button">View Report</a></li>
 				</ul>
@@ -108,7 +108,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Java game using ASTAR</h3>
 				</header>
-				<p>This game was the final product of my object oriented programming class. The main focus of this project was to build a generic, single page script into a properly structured hierchacal project. There are also applications of algorithms and pathfinding techniques such as a modified ASTAR which is used by the enemies to track the player.</p>
+				<p> The main focus of this project was to build a generic, single page script into a properly structured hierchacal project. There are also applications of algorithms and pathfinding techniques such as a modified ASTAR which is used by the enemies to track the player.</p>
 				<ul class="actions">
 					<li><a href="projects/ASTARgame.html" class="button">Learn More</a></li>
 				</ul>
@@ -124,7 +124,7 @@ nav-menu: true
 				<header class="major">
 					<h3>K-cliques</h3>
 				</header>
-				<p> A project I wrote for my algorithms class which determines whether a map contains a 'k-clique' where k is input by the user. </p>
+				<p> Determines whether a map contains a 'k-clique' where k is input by the user. </p>
 				<ul class="actions">
 					<li><a href="projects/kcliques.html" class="button">Learn More</a></li>
 				</ul>

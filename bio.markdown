@@ -24,13 +24,13 @@ show-tile: true
 
 <h3>Hi, I'm Colin</h3>
 
-<p> A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the California Bay Area. </p>
+<p> A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the San Francisco Bay Area. </p>
 
 <p> Interested in basketball, chess, skateboarding, hip hop, pc games, good food, and fitness. Also into learning new software and languages and exploring them through coding projects. </p> 
 
 <p> I'm early in my career but I've got big plans. Seeking to be inspired and to work hard for things that are worth it, around people that bring out the best in me. </p>
 
-<p> Please take a look at my stats resume, programming resume, or check out some examples of my work. </p>
+<p> Please feel free take a look at my <a href="c-barrett.com/resume">resume</a> or check out some <a href="c-barrett.com/projects">examples of my work.</a> </p>
 
 </div>
 

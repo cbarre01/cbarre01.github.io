@@ -1,8 +1,8 @@
 # site settings
-title: 
-subtitle: Colin Barrett
+title: c-barrett.com
+subtitle: ""
 email: cole.barrett5@gmail.com
-description: Welcome to my site.
+description: Welcome to Colin Barrett's Website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://cbarre01.github.io// # the base hostname & protocol for your site
 author: Colin Barrett

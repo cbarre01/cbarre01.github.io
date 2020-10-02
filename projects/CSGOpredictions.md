@@ -5,7 +5,7 @@
     
 <h3> Predictions for Professional CS GO Matches on (DATE).</h3>
 
-<h3> 10/2 NOT CURRENTLY LIVE - UNDER CONSTRUCTION.</h3>
+<h3> 10/1 CURRENTLY UNDER CONSTRUCTION.</h3>
 
 <div class="table-wrapper">
 	<table>

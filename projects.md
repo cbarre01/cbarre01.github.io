@@ -126,7 +126,7 @@ nav-menu: true
 				</header>
 				<p> Determines whether a map contains a 'k-clique' where k is input by the user. </p>
 				<ul class="actions">
-					<li><a href="projects/kcliques.html" class="button">Learn More</a></li>
+					<li><a href="projects/k-clique.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>

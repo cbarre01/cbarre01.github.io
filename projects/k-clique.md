@@ -12,12 +12,12 @@ show_tile: false
   <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
-
+<hr class="major" />
 <h3> K-Clique Finder</h3>
 
-<h2><a href ='https://github.com/cbarre01/k-cliques'>View Code Here!</a></h2>
+<h2> <a href ='https://github.com/cbarre01/k-cliques'>View Code Here!</a> </h2>
 
-<p> A small class project which solves the <a href ='https://en.wikipedia.org/wiki/Clique_problem'> clique problem </a>, a computational problem 'of finding cliques (subsets of vertices, all adjacent to each other, also called complete subgraphs) in a graph'. This python script defines a map and vertex class, and takes an input graph and k value then returns the cliques within the graph. It exists as a python script for now but I'll make a demo of it soon! </p>
+<p> A small class project which solves the clique problem </a>, a computational problem 'of finding cliques (subsets of vertices, all adjacent to each other, also called complete subgraphs) in a graph'. This python script defines a map and vertex class, and takes an input graph and k value then returns the cliques within the graph. It exists as a python script for now but I'll make a demo of it soon! </p>
 
 </div>
 

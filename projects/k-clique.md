@@ -13,6 +13,6 @@ show_tile: false
 
 <h2><a href ='https://github.com/cbarre01/k-cliques'>View Code Here!</a></h2>
 
-<p> This was a small class project which solves the clique problem, a computational problem of finding cliques, or complete subgraphs, within a larger graph. It defines a map and vertex class, and takes an input graph and k value then returns the cliques within the graph. It exists as a python script for now but I'll make a demo of it soon! </p>
+<p> A small class project which solves the <a href = 'en.wikipedia.org/wiki/Clique_problem'> clique problem </a>, a computational problem 'of finding cliques (subsets of vertices, all adjacent to each other, also called complete subgraphs) in a graph'. This python script defines a map and vertex class, and takes an input graph and k value then returns the cliques within the graph. It exists as a python script for now but I'll make a demo of it soon! </p>
 
 </body>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: K-cliques
+title: Frogs and Robots
 author: Colin Barrett
 show_tile: false
 ---

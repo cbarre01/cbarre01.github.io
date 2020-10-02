@@ -3,7 +3,7 @@
 <section id="one">
 	<div class="inner">
     
-<h3> Predictions for Professional CS GO Matches on (DATE). UNDER CONSTRUCTION.</h3>
+<h3> Predictions for Professional CS GO Matches on (DATE). UNDER CONSTRUCTION/NOT CURRENTLY LIVE.</h3>
 <div class="table-wrapper">
 	<table>
 		<thead>

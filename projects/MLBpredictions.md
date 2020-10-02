@@ -6,9 +6,10 @@ show_tile: false
 ---
 
 
-<section id="one">
-	<div class="inner">
-    
+<h3> Predictions for MLB Matches on (DATE).</h3>
+
+<h3> 10/2 NOT CURRENTLY LIVE - RESOLVING SERVER HOST ISSUES.</h3>
+
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -24,43 +25,43 @@ show_tile: false
 		<tbody>
 			<tr>
 				<td>home1</td>
-				<td>away2</td>
+				<td>away1</td>
 				<td>hs1</td>
 				<td>as1</td>
 				<td>hc1</td>
 				<td>ac1</td>
 			</tr>
 			<tr>
-				<td>home1</td>
+				<td>home2</td>
 				<td>away2</td>
-				<td>hs1</td>
-				<td>as1</td>
-				<td>hc1</td>
-				<td>ac1</td>
+				<td>hs2</td>
+				<td>as2</td>
+				<td>hc2</td>
+				<td>ac2</td>
 			</tr>
 			<tr>
-				<td>home1</td>
-				<td>away2</td>
-				<td>hs1</td>
-				<td>as1</td>
-				<td>hc1</td>
-				<td>ac1</td>
+				<td>home3</td>
+				<td>away3</td>
+				<td>hs3</td>
+				<td>as3</td>
+				<td>hc3</td>
+				<td>ac3</td>
 			</tr>
 			<tr>
-				<td>home1</td>
-				<td>away2</td>
-				<td>hs1</td>
-				<td>as1</td>
-				<td>hc1</td>
-				<td>ac1</td>
+				<td>home4</td>
+				<td>away4</td>
+				<td>hs4</td>
+				<td>as4</td>
+				<td>hc4</td>
+				<td>ac4</td>
 			</tr>
 			<tr>
-				<td>home1</td>
-				<td>away2</td>
-				<td>hs1</td>
-				<td>as1</td>
-				<td>hc1</td>
-				<td>ac1</td>
+				<td>home5</td>
+				<td>away5</td>
+				<td>hs5</td>
+				<td>as5</td>
+				<td>hc5</td>
+				<td>ac5</td>
 			</tr>
 		</tbody>
 	</table>

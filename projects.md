@@ -124,7 +124,7 @@ nav-menu: true
 				<header class="major">
 					<h3>K-cliques</h3>
 				</header>
-				<p> Determines whether a map contains a 'k-clique' where k is input by the user. </p>
+				<p> Determines whether a map contains a 'k-clique,' or a complete subgraph of k vertices, where k and the graph are defined by the user. </p>
 				<ul class="actions">
 					<li><a href="projects/k-clique.html" class="button">Learn More</a></li>
 				</ul>

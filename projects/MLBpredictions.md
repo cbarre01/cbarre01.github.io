@@ -6,7 +6,7 @@ show_tile: false
 ---
 
 
-<h3> Predictions for MLB Matches updated 06/10/2020 13:40:55 .</h3>
+<h3> Predictions for MLB Matches updated 06/10/2020 14:14:52 .</h3>
 
 
 <div class="table-wrapper">
@@ -27,19 +27,19 @@ show_tile: false
 				<td>0</td>
 				<td>Marlins</td>
 				<td>Braves</td>
-				<td>4</td>
+				<td>5</td>
 				<td>9</td>
-				<td>2.667</td>
-				<td>97.33</td>
+				<td>4.160</td>
+				<td>95.83</td>
 			</tr>
 			<tr>
 				<td>1</td>
 				<td>Astros</td>
 				<td>Athletics</td>
 				<td>0</td>
-				<td>0</td>
-				<td>56.74</td>
-				<td>43.25</td>
+				<td>1</td>
+				<td>43.45</td>
+				<td>56.54</td>
 			</tr>
 		</tbody>
 	</table>

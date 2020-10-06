@@ -6,7 +6,7 @@ show_tile: false
 ---
 
 
-<h3> Predictions for MLB Matches on (DATE).</h3>
+<h3> Predictions for MLB Matches updated 06/10/2020 13:35:07 .</h3>
 
 <h3> 10/2 NOT CURRENTLY LIVE - RESOLVING SERVER HOST ISSUES.</h3>
 
@@ -14,6 +14,7 @@ show_tile: false
 	<table>
 		<thead>
 			<tr>
+				<th>Game Number</th>
 				<th>Home Team</th>
 				<th>Away Team</th>
 				<th>Home Score</th>
@@ -24,44 +25,22 @@ show_tile: false
 		</thead>
 		<tbody>
 			<tr>
-				<td>home1</td>
-				<td>away1</td>
-				<td>hs1</td>
-				<td>as1</td>
-				<td>hc1</td>
-				<td>ac1</td>
+				<td>0</td>
+				<td>Dodgers</td>
+				<td>Padres</td>
+				<td>7</td>
+				<td>1</td>
+				<td>99.27</td>
+				<td>0.720</td>
 			</tr>
 			<tr>
-				<td>home2</td>
-				<td>away2</td>
-				<td>hs2</td>
-				<td>as2</td>
-				<td>hc2</td>
-				<td>ac2</td>
-			</tr>
-			<tr>
-				<td>home3</td>
-				<td>away3</td>
-				<td>hs3</td>
-				<td>as3</td>
-				<td>hc3</td>
-				<td>ac3</td>
-			</tr>
-			<tr>
-				<td>home4</td>
-				<td>away4</td>
-				<td>hs4</td>
-				<td>as4</td>
-				<td>hc4</td>
-				<td>ac4</td>
-			</tr>
-			<tr>
-				<td>home5</td>
-				<td>away5</td>
-				<td>hs5</td>
-				<td>as5</td>
-				<td>hc5</td>
-				<td>ac5</td>
+				<td>1</td>
+				<td>Cardinals</td>
+				<td>Brewers</td>
+				<td>3</td>
+				<td>2</td>
+				<td>74.64</td>
+				<td>25.35</td>
 			</tr>
 		</tbody>
 	</table>

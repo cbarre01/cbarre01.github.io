@@ -6,7 +6,7 @@ show_tile: false
 ---
 
 
-<h3> Predictions for MLB Matches updated 06/10/2020 13:35:07 .</h3>
+<h3> Predictions for MLB Matches updated 06/10/2020 13:37:40 .</h3>
 
 <h3> 10/2 NOT CURRENTLY LIVE - RESOLVING SERVER HOST ISSUES.</h3>
 
@@ -26,21 +26,12 @@ show_tile: false
 		<tbody>
 			<tr>
 				<td>0</td>
-				<td>Dodgers</td>
-				<td>Padres</td>
+				<td>Marlins</td>
+				<td>Braves</td>
+				<td>4</td>
 				<td>7</td>
-				<td>1</td>
-				<td>99.27</td>
-				<td>0.720</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>Cardinals</td>
-				<td>Brewers</td>
-				<td>3</td>
-				<td>2</td>
-				<td>74.64</td>
-				<td>25.35</td>
+				<td>10.31</td>
+				<td>89.68</td>
 			</tr>
 		</tbody>
 	</table>

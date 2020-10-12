@@ -8,7 +8,7 @@ show_tile: false
 
 <h3> Predictions for MLB Matches updated 06/10/2020 14:14:52 .</h3>
 
-
+<div class="inner">
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -43,6 +43,7 @@ show_tile: false
 			</tr>
 		</tbody>
 	</table>
+</div>
 </div>
 
 
